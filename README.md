@@ -1,4 +1,4 @@
 # demo
 This is my first git repository.
 <br>
-Author:Beniksha Thapa
+Author:Beniksha (Thapa)
